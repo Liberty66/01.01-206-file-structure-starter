@@ -3,7 +3,7 @@
 
 html, body{
 	margin:0px;
-	background-image: url('img/symphony.png');
+	background-image: url('../img/symphony.png');
 	background-repeat: repeat;
 	/* Background image from http://subtlepatterns.com/ */
 	text-align:center;
